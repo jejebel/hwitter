@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/hwitter/static/js/main.6bf1c818.js",
+    "index.html": "/hwitter/index.html",
+    "main.6bf1c818.js.map": "/hwitter/static/js/main.6bf1c818.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6bf1c818.js"
+  ]
+}
